@@ -1,0 +1,10 @@
+a=2 
+b= 4
+c= a+b
+d= a-b
+e= a*b
+f= a/b
+print("the sum of a & b is = ", c)
+print("the diff of a & b is = ", d)
+print("the product of a & b is = ", e)
+print("the division of a & b is = ", f)
